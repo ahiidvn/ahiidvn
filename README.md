@@ -177,15 +177,14 @@ Thư viện prompt và quy trình ứng dụng AI cho thiết kế, lập trình
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ahiidvn&show_icons=true&hide_border=true&bg_color=0F172A&title_color=38BDF8&icon_color=22D3EE&text_color=E2E8F0&ring_color=38BDF8&locale=vi" alt="GitHub stats" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahiidvn&layout=compact&hide_border=true&bg_color=0F172A&title_color=38BDF8&text_color=E2E8F0&langs_count=8" alt="Top languages" />
+
+<br/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=ahiidvn&background=0F172A&hide_border=true&locale=vi&ring=38BDF8&fire=22D3EE&currStreakLabel=38BDF8&sideLabels=CBD5E1&dates=94A3B8&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub streak" />
 
 <br/>
 
 <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=ahiidvn&bg_color=0F172A&color=38BDF8&line=22D3EE&point=FFFFFF&area=true&area_color=0EA5E9&hide_border=true&custom_title=Bi%E1%BB%83u%20%C4%91%E1%BB%93%20ho%E1%BA%A1t%20%C4%91%E1%BB%99ng" alt="GitHub activity graph" />
-
-<br/>
-
-<img width="98%" src="https://github-profile-trophy.vercel.app/?username=ahiidvn&theme=algolia&no-frame=true&no-bg=true&margin-w=8&margin-h=8&row=1&column=7" alt="GitHub trophies" />
 
 </div>
 
