@@ -38,7 +38,7 @@ Không chạy theo ồn ào — mình giữ nhịp riêng tại **[ahi.id.vn](ht
 ```js
 const aHi = {
   site: "aHí đây rồi",
-  domain: "[https://ahi.id.vn](https://ahi.id.vn)",
+  domain: "https://ahi.id.vn",
   accent: "#e8590c",
   tagline: "Chia sẻ điều tôi biết · Xây dựng điều tôi thích",
   pillars: [
@@ -180,7 +180,6 @@ Tò mò  ──▶  Vọc vạch  ──▶  Chế tác  ──▶  Ghi chép  �
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ahiidvn&show_icons=true&hide_border=true&bg_color=18181B&title_color=E8590C&icon_color=FB923C&text_color=F4F4F5&ring_color=E8590C&locale=vi" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahiidvn&layout=compact&hide_border=true&bg_color=18181B&title_color=E8590C&text_color=F4F4F5&locale=vi" alt="Top Languages" />
 
 <br/><br/>
 
