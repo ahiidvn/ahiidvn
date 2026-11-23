@@ -9,7 +9,7 @@
 
 <!-- Hiệu ứng chữ gõ máy liên tục -->
 <a href="https://ahi.id.vn">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=850&color=E8590C&center=true&vCenter=true&multiline=false&repeat=true&width=920&height=54&lines=Website+%26+Blogger+%C2%B7+Giao+di%E1%BB%87n+%26+T%E1%BB%91c+%C4%91%E1%BB%99;AI+%26+Prompt+%C2%B7+Quy+tr%C3%ACnh+th%E1%BB%B1c+chi%E1%BA%BFn;Ti%E1%BB%87n+%C3%ADch+%26+L%E1%BA%ADp+tr%C3%ACnh+(Java,Python,C#,PHP,...);G%C3%B3c+nh%C3%ACn+c%E1%BB%A7a+aH%C3%AD+%C2%B7+X%C6%B0%E1%BB%9Fng+nh%E1%BB%8F" alt="aHí typing effect" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=850&color=E8590C&center=true&vCenter=true&multiline=false&repeat=true&width=920&height=54&lines=Website+%26+Blogger+%C2%B7+Giao+di%E1%BB%87n+%26+T%E1%BB%91c+%C4%91%E1%BB%99;AI+%26+Prompt+%C2%B7+Quy+tr%C3%ACnh+th%E1%BB%B1c+chi%E1%BA%BFn;%E1%BB%A8ng+d%E1%BB%A5ng+%26+L%E1%BA%ADp+tr%C3%ACnh+(Java,Python,C#,PHP,...);G%C3%B3c+nh%C3%ACn+c%E1%BB%A7a+aH%C3%AD+%C2%B7+X%C6%B0%E1%BB%9Fng+nh%E1%BB%8F" alt="aHí typing effect" />
 </a>
 
 <br/>
