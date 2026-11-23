@@ -1,6 +1,5 @@
 <!--
   GitHub Profile README — aHí đây rồi (https://ahi.id.vn)
-  Màu chủ đạo: #E8590C · Cam đậm: #C2410C · Cam sáng: #F97316 · Than đậm: #18181B
 -->
 
 <div align="center">
@@ -10,7 +9,7 @@
 
 <!-- Hiệu ứng chữ gõ máy liên tục -->
 <a href="https://ahi.id.vn">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=850&color=E8590C&center=true&vCenter=true&multiline=false&repeat=true&width=920&height=54&lines=Website+%26+Blogger+%C2%B7+Giao+di%E1%BB%87n+%26+T%E1%BB%91c+%C4%91%E1%BB%99;AI+%26+Prompt+%C2%B7+Quy+tr%C3%ACnh+th%E1%BB%B1c+chi%E1%BA%BFn;Ti%E1%BB%87n+%C3%ADch+%26+L%E1%BA%ADp+tr%C3%ACnh+(SQL,+JS,+VBA);G%C3%B3c+nh%C3%ACn+c%E1%BB%A7a+aH%C3%AD+%C2%B7+X%C6%B0%E1%BB%9Fng+nh%E1%BB%8F" alt="aHí typing effect" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=850&color=E8590C&center=true&vCenter=true&multiline=false&repeat=true&width=920&height=54&lines=Website+%26+Blogger+%C2%B7+Giao+di%E1%BB%87n+%26+T%E1%BB%91c+%C4%91%E1%BB%99;AI+%26+Prompt+%C2%B7+Quy+tr%C3%ACnh+th%E1%BB%B1c+chi%E1%BA%BFn;Ti%E1%BB%87n+%C3%ADch+%26+L%E1%BA%ADp+tr%C3%ACnh+(Java,Python,C#,PHP,...);G%C3%B3c+nh%C3%ACn+c%E1%BB%A7a+aH%C3%AD+%C2%B7+X%C6%B0%E1%BB%9Fng+nh%E1%BB%8F" alt="aHí typing effect" />
 </a>
 
 <br/>
@@ -33,7 +32,7 @@
 
 ## Xin chào, mình là **aHí** 👋
 
-Không chạy theo ồn ào — mình giữ nhịp riêng tại **[ahi.id.vn](https://ahi.id.vn)** để ghi lại những điều đáng nhớ, tạo ra các tiện ích nhỏ hữu ích và mở rộng những góc nhìn thực tế quanh chuyện làm nghề lẫn cuộc sống số.
+Không chạy theo ồn ào — mình giữ nhịp riêng tại **[ahi.id.vn](https://ahi.id.vn)** để ghi lại những điều đáng nhớ, tạo ra các ứng dụng nhỏ hữu ích và mở rộng những góc nhìn thực tế quanh chuyện làm nghề lẫn cuộc sống số.
 
 ```js
 const aHi = {
@@ -44,7 +43,7 @@ const aHi = {
   pillars: [
     "Website & Blogger",
     "AI & Prompt",
-    "Tiện ích & Lập trình",
+    "Ứng dụng & Lập trình",
     "Góc nhìn của aHí"
   ],
   workflow: ["Tò mò", "Vọc vạch", "Chế tác", "Ghi chép", "Lan tỏa"]
@@ -61,9 +60,9 @@ const aHi = {
 |---|---|
 | **[Website & Blogger](https://ahi.id.vn)** | Thiết kế giao diện, template Blogger, SEO và tốc độ — để website vừa đẹp vừa dễ được tìm thấy |
 | **[AI & Prompt](https://ahi.id.vn)** | Prompt mẫu dùng được ngay cho viết lách, lập trình và công việc hằng ngày, cùng thử nghiệm thực tế |
-| **[Tiện ích & Lập trình](https://ahi.id.vn)** | SQL, JavaScript, VBA, tự động hóa và tiện ích nhỏ giúp tiết kiệm thời gian |
+| **[Ứng dụng & Lập trình](https://ahi.id.vn)** | SQL, JavaScript, Python, PHP,... tự động hóa và tiện ích nhỏ giúp tiết kiệm thời gian |
 | **[Góc nhìn của aHí](https://ahi.id.vn)** | Suy nghĩ về công nghệ, công việc và cuộc sống bên ngoài màn hình |
-| **[Xưởng nhỏ](https://ahi.id.vn)** | Các tiện ích nhỏ, ý tưởng thử nghiệm và sản phẩm tạo ra để giải quyết nhu cầu thực tế trên Internet |
+| **[Xưởng nhỏ](https://ahi.id.vn)** | Các ứng dụng nhỏ, ý tưởng thử nghiệm và sản phẩm tạo ra để giải quyết nhu cầu thực tế trên Internet |
 
 ---
 
@@ -121,10 +120,10 @@ Tổng hợp prompt mẫu dùng được ngay cho viết lách, lập trình và
 <td width="50%" valign="top">
 
 ### ⚡ Tiện ích & Lập trình
-Làm các tiện ích nhỏ, script SQL / JavaScript / VBA và công cụ giúp giảm thao tác lặp lại trong công việc.
+Làm các ứng dụng nhỏ, SQL / JavaScript / Python / ... và công cụ giúp giảm thao tác lặp lại trong công việc.
 
 <a href="https://ahi.id.vn">
-  <img src="https://img.shields.io/badge/Xem%20Ti%E1%BB%87n%20%C3%ADch-18181B?style=flat-square&logo=googlechrome&logoColor=FB923C" alt="Xem Tiện ích" />
+  <img src="https://img.shields.io/badge/Xem%20Ti%E1%BB%87n%20%C3%ADch-18181B?style=flat-square&logo=googlechrome&logoColor=FB923C" alt="Xem ứng dụng" />
 </a>
 
 </td>
