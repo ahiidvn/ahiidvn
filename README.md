@@ -1,209 +1,125 @@
-<!--
-  GitHub Profile README — aHí đây rồi (https://ahi.id.vn)
--->
+<!-- aHi | Personal GitHub profile | Local, self-contained visual assets -->
 
 <div align="center">
-
-<!-- Header sóng cam chuyển sắc đặc trưng -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:C2410C,48:E8590C,100:F97316&height=225&section=header&text=aH%C3%AD&fontSize=76&fontColor=FFFFFF&animation=fadeIn&fontAlignY=34&desc=Chia%20s%E1%BA%BB%20%C4%91i%E1%BB%81u%20t%C3%B4i%20bi%E1%BA%BFt%20%C2%B7%20X%C3%A2y%20d%E1%BB%B1ng%20%C4%91i%E1%BB%81u%20t%C3%B4i%20th%C3%ADch&descAlignY=57&descSize=19" alt="aHí đây rồi — Chia sẻ điều tôi biết · Xây dựng điều tôi thích" />
-
-<!-- Hiệu ứng chữ gõ máy liên tục -->
-<a href="https://ahi.id.vn">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=850&color=E8590C&center=true&vCenter=true&multiline=false&repeat=true&width=920&height=54&lines=Website+%26+Blogger+%C2%B7+Giao+di%E1%BB%87n+%26+T%E1%BB%91c+%C4%91%E1%BB%99;AI+%26+Prompt+%C2%B7+Quy+tr%C3%ACnh+th%E1%BB%B1c+chi%E1%BA%BFn;%E1%BB%A8ng+d%E1%BB%A5ng+%26+L%E1%BA%ADp+tr%C3%ACnh+(Java,Python,SQL,...);G%C3%B3c+nh%C3%ACn+c%E1%BB%A7a+aH%C3%AD+%C2%B7+X%C6%B0%E1%BB%9Fng+nh%E1%BB%8F" alt="aHí typing effect" />
-</a>
-
-<br/>
-
-<!-- Badge liên kết nhanh & bộ đếm lượt xem hồ sơ -->
-<a href="https://ahi.id.vn">
-  <img src="https://img.shields.io/badge/aH%C3%AD%20%C4%91%C3%A2y%20r%E1%BB%93i-ahi.id.vn-E8590C?style=for-the-badge&logo=googlechrome&logoColor=white" alt="aHí đây rồi" />
-</a>
-<a href="https://github.com/ahiidvn">
-  <img src="https://img.shields.io/badge/GitHub-ahiidvn-18181B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub ahiidvn" />
-</a>
-<a href="https://ahi.id.vn/p/rss.html">
-  <img src="https://img.shields.io/badge/RSS-Feed-C2410C?style=for-the-badge&logo=rss&logoColor=white" alt="RSS Feed" />
-</a>
-<img src="https://komarev.com/ghpvc/?username=ahiidvn&label=L%C6%B0%E1%BB%A3t%20xem&color=E8590C&style=for-the-badge" alt="Profile views" />
-
+  <a href="https://ahi.id.vn"><img src="./assets/profile-header.gif" width="100%" alt="aHí đây rồi — Tôi viết mình vào những điều biết chạy. Web, Blogger, AI và Creative Tools." /></a>
+  <br />
+  <strong>Chia sẻ điều tôi biết · Xây dựng điều tôi thích.</strong>
+  <br /><br />
+  <a href="https://ahi.id.vn">Website</a> &nbsp;·&nbsp;
+  <a href="https://github.com/ahiidvn/ahiLib">ahiLib</a> &nbsp;·&nbsp;
+  <a href="https://github.com/ahiidvn?tab=repositories">Repositories</a> &nbsp;·&nbsp;
+  <a href="https://github.com/ahiidvn?tab=overview">GitHub Activity</a>
 </div>
 
 ---
 
-## Xin chào, mình là **aHí** 👋
+## Xin chào, mình là aHí
 
-Không chạy theo ồn ào — mình giữ nhịp riêng tại **[ahi.id.vn](https://ahi.id.vn)** để ghi lại những điều đáng nhớ, tạo ra các ứng dụng nhỏ hữu ích và mở rộng những góc nhìn thực tế quanh chuyện làm nghề lẫn cuộc sống số.
+**Một người thích viết, thích vọc công nghệ và thích tự tay tạo ra những thứ mình cần.**
 
-```js
+[ahi.id.vn](https://ahi.id.vn) là góc riêng để mình lưu lại những điều đã học, chia sẻ những cách làm hữu ích và thử nghiệm các ý tưởng trong thế giới số. Từ một đoạn code, một giao diện Blogger đến một công cụ nhỏ hay một bài viết về AI, mình thích quá trình biến sự tò mò thành thứ có thể sử dụng được.
+
+Không nhất thiết phải làm một điều thật lớn. Một công cụ tiết kiệm vài phút mỗi ngày, một dòng code dễ hiểu hơn hoặc một bài viết giúp ai đó giải quyết vấn đề cũng đáng để làm kỹ.
+
+```javascript
 const aHi = {
-  site: "aHí đây rồi",
-  domain: "https://ahi.id.vn",
-  accent: "#e8590c",
-  tagline: "Chia sẻ điều tôi biết · Xây dựng điều tôi thích",
-  pillars: [
-    "Website & Blogger",
-    "AI & Prompt",
-    "Ứng dụng & Lập trình",
-    "Góc nhìn của aHí"
-  ],
-  workflow: ["Tò mò", "Vọc vạch", "Chế tác", "Ghi chép", "Lan tỏa"]
+  website: 'https://ahi.id.vn',
+  interests: ['Web', 'Blogger', 'AI', 'Useful tools'],
+  approach: ['Learn', 'Build', 'Share'],
+  mindset: 'Make things useful. Keep things simple.'
 };
 ```
 
-> **Một góc riêng, đủ nhỏ để làm kỹ** — mỗi nội dung đều bắt đầu từ sự tò mò, trải nghiệm thực tế và mong muốn làm mọi thứ tốt hơn một chút.
+## Những điều mình đang làm
 
----
+| Lĩnh vực | Hướng phát triển |
+| :--- | :--- |
+| **Website & Blogger** | Thiết kế giao diện, phát triển template XML, cải thiện trải nghiệm đọc, SEO và hiệu năng. |
+| **Ứng dụng & Lập trình** | Xây dựng công cụ web, xử lý dữ liệu và tự động hóa những thao tác lặp lại. |
+| **AI & Prompt Engineering** | Thử nghiệm prompt có cấu trúc, quy trình làm việc với AI và các công cụ hỗ trợ lập trình. |
+| **Xưởng nhỏ** | Biến những ý tưởng thiết thực thành tiện ích có thể chạy trực tiếp trên trình duyệt. |
+| **Góc nhìn của aHí** | Viết về công nghệ, trải nghiệm làm việc và những thay đổi đáng chú ý trong cuộc sống số. |
 
-## 🧭 Chuyên mục chính tại **aHí đây rồi**
+## Công nghệ & kỹ năng
 
-| Chuyên mục | Nội dung trọng tâm |
-|---|---|
-| **[Website & Blogger](https://ahi.id.vn)** | Thiết kế giao diện, template Blogger, SEO và tốc độ — để website vừa đẹp vừa dễ được tìm thấy |
-| **[AI & Prompt](https://ahi.id.vn)** | Prompt mẫu dùng được ngay cho viết lách, lập trình và công việc hằng ngày, cùng thử nghiệm thực tế |
-| **[Ứng dụng & Lập trình](https://ahi.id.vn)** | SQL, JavaScript, Python, PHP,... tự động hóa và tiện ích nhỏ giúp tiết kiệm thời gian |
-| **[Góc nhìn của aHí](https://ahi.id.vn)** | Suy nghĩ về công nghệ, công việc và cuộc sống bên ngoài màn hình |
-| **[Xưởng nhỏ](https://ahi.id.vn)** | Các ứng dụng nhỏ, ý tưởng thử nghiệm và sản phẩm tạo ra để giải quyết nhu cầu thực tế trên Internet |
-
----
-
-## ⚙️ Công cụ & kỹ năng
-
-<div align="center">
-
-![Blogger](https://img.shields.io/badge/Blogger-E8590C?style=for-the-badge&logo=blogger&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-EA580C?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-C2410C?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-18181B?style=for-the-badge&logo=javascript&logoColor=FB923C)
-![TypeScript](https://img.shields.io/badge/TypeScript-9A3412?style=for-the-badge&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-E8590C?style=for-the-badge&logo=databricks&logoColor=white)
-![VBA](https://img.shields.io/badge/VBA-18181B?style=for-the-badge&logo=microsoftexcel&logoColor=FB923C)
-![Python](https://img.shields.io/badge/Python-C2410C?style=for-the-badge&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-18181B?style=for-the-badge&logo=nodedotjs&logoColor=FB923C)
-![Git & GitHub](https://img.shields.io/badge/Git%20%26%20GitHub-18181B?style=for-the-badge&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-EA580C?style=for-the-badge&logo=figma&logoColor=white)
-![AI & Prompt](https://img.shields.io/badge/AI%20%26%20Prompt-E8590C?style=for-the-badge&logo=openai&logoColor=white)
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,python,java,cs,dotnet,mysql,postgres,git,github,vscode,figma,ps&perline=9" alt="Technical icons" />
-
+<div align="left">
+  <img src="./assets/html-css.svg" height="34" alt="HTML / CSS" />
+  <img src="./assets/javascript.svg" height="34" alt="JavaScript" />
+  <img src="./assets/blogger.svg" height="34" alt="Blogger / XML" />
+  <img src="./assets/python.svg" height="34" alt="Python" />
+  <img src="./assets/sql.svg" height="34" alt="SQL" />
+  <img src="./assets/php.svg" height="34" alt="PHP" />
+  <img src="./assets/git.svg" height="34" alt="Git / GitHub" />
+  <img src="./assets/ai.svg" height="34" alt="AI / Prompt" />
 </div>
 
----
+| Năng lực & mối quan tâm | Công nghệ / thực hành |
+| :--- | :--- |
+| **Web development** | HTML, CSS, JavaScript, responsive design, browser APIs |
+| **Blogger customization** | XML templates, widgets, theme customization, technical SEO |
+| **Programming & data** | SQL, Python, PHP, data processing and automation |
+| **Creative development** | UI design, prototyping, client-side utilities |
+| **AI-assisted development** | Prompt engineering, code assistance, validation and iteration |
+| **Developer workflow** | Git, GitHub, documentation and reusable components |
 
-## 🛠️ Xưởng nhỏ & những gì mình đang làm
+## Xưởng nhỏ — Project shelf
+
+Những repository và hướng thử nghiệm mình dành thời gian chăm chút.
 
 <table>
-<tr>
-<td width="50%" valign="top">
-
-### 🧩 Website & Blogger
-Xây dựng và tinh chỉnh giao diện gọn gàng, template Blogger hiện đại, tối ưu tốc độ tải và trải nghiệm đọc rõ ràng.
-
-<a href="https://ahi.id.vn">
-  <img src="https://img.shields.io/badge/Kh%C3%A1m%20ph%C3%A1%20b%C3%A0i%20vi%E1%BA%BFt-E8590C?style=flat-square&logo=googlechrome&logoColor=white" alt="Khám phá bài viết" />
-</a>
-
-</td>
-<td width="50%" valign="top">
-
-### 🤖 Thư viện Prompt & AI
-Tổng hợp prompt mẫu dùng được ngay cho viết lách, lập trình và công việc hằng ngày, đi kèm quy trình áp dụng AI thực tế.
-
-<a href="https://ahi.id.vn">
-  <img src="https://img.shields.io/badge/Xem%20Prompt%20m%E1%BA%ABu-C2410C?style=flat-square&logo=googlechrome&logoColor=white" alt="Xem Prompt mẫu" />
-</a>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### ⚡ Tiện ích & Lập trình
-Làm các ứng dụng nhỏ, SQL / JavaScript / Python / ... và công cụ giúp giảm thao tác lặp lại trong công việc.
-
-<a href="https://ahi.id.vn">
-  <img src="https://img.shields.io/badge/Xem%20Ti%E1%BB%87n%20%C3%ADch-18181B?style=flat-square&logo=googlechrome&logoColor=FB923C" alt="Xem ứng dụng" />
-</a>
-
-</td>
-<td width="50%" valign="top">
-
-### 📰 Tin Công nghệ & Ghi chép
-Nhặt ra 5 chuyển động đáng giá nhất mỗi ngày kèm tóm tắt gọn, nguồn gốc rõ ràng và sổ tay ghi chép hằng ngày.
-
-<a href="https://github.com/ahiidvn">
-  <img src="https://img.shields.io/badge/GitHub-ahiidvn-18181B?style=flat-square&logo=github&logoColor=white" alt="GitHub ahiidvn" />
-</a>
-
-</td>
-</tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/ahiidvn/ahiLib">ahiLib</a></h3>
+      Thư viện aHí cho các sản phẩm online. Nơi tập hợp những tài nguyên và thành phần dùng lại cho các công cụ, thử nghiệm web.
+      <p><sub>LIBRARY · REUSABLE RESOURCES</sub></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://ahi.id.vn">aHí đây rồi</a></h3>
+      Không gian cá nhân dành cho kiến thức, Blogger, AI, các công cụ và những góc nhìn về công nghệ.
+      <p><sub>WEBSITE · DIGITAL NOTEBOOK</sub></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Web Tools</h3>
+      Hướng phát triển các tiện ích chạy trên trình duyệt: xử lý tài liệu, hình ảnh, dữ liệu và những tác vụ thường ngày.
+      <p><sub>PROJECT DIRECTION · BROWSER-FIRST</sub></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Prompt AI Studio</h3>
+      Ý tưởng về một không gian xây dựng, tổ chức và cải tiến prompt theo cách có hệ thống.
+      <p><sub>PROJECT DIRECTION · AI &amp; PRODUCTIVITY</sub></p>
+    </td>
+  </tr>
 </table>
 
----
+<a href="https://github.com/ahiidvn?tab=repositories">Khám phá toàn bộ repositories →</a>
 
-## 🔄 Nhịp làm việc tại Xưởng nhỏ
-
-```text
-Tò mò  ──▶  Vọc vạch  ──▶  Chế tác  ──▶  Ghi chép  ──▶  Lan tỏa
-```
-
-<details>
-<summary><strong>📌 aHí đang làm gì?</strong></summary>
-
-<br/>
-
-- **Sửa nhà:** Tút lại giao diện cho góc nhỏ này — bớt rườm rà, thêm chất riêng.
-- **Vọc AI:** Thử nghiệm vài quy trình ứng dụng AI để công việc hằng ngày nhẹ nhàng hơn.
-- **Dọn xưởng:** Đang lọc và hoàn thiện mấy tiện ích nhỏ trước khi mở cửa cho mọi người dùng thử.
-
-</details>
-
-<details>
-<summary><strong>💡 Vài ghi chú tự nhủ</strong></summary>
-
-<br/>
-
-- Tự tay dựng thứ mình cần.
-- Ý tưởng hay chỉ sống khi được thử.
-- Mỗi bản nháp đều là một bước tiến.
-- Cứ bắt tay làm rồi sẽ rõ.
-- Biến điều tò mò thành sản phẩm thật.
-
-</details>
-
----
-
-## 📊 Thống kê & nhịp hoạt động GitHub
+## Nhịp làm việc tại Xưởng nhỏ
 
 <div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ahiidvn&show_icons=true&hide_border=true&bg_color=18181B&title_color=E8590C&icon_color=FB923C&text_color=F4F4F5&ring_color=E8590C&locale=vi" alt="GitHub Stats" />
-
-<br/><br/>
-
-<img width="72%" src="https://streak-stats.demolab.com?user=ahiidvn&background=18181B&hide_border=true&locale=vi&ring=E8590C&fire=E8590C&currStreakLabel=FB923C&sideLabels=D4D4D8&dates=A1A1AA&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub Streak" />
-
-<br/><br/>
-
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=ahiidvn&bg_color=18181B&color=E8590C&line=FB923C&point=FFFFFF&area=true&area_color=E8590C&hide_border=true&custom_title=Bi%E1%BB%83u%20%C4%91%E1%BB%93%20ho%E1%BA%A1t%20%C4%91%E1%BB%99ng" alt="Activity Graph" />
-
+  <img src="./assets/creative-flow.gif" width="100%" alt="Quy trình sáng tạo: Tò mò, Vọc vạch, Chế tác, Ghi chép, Lan tỏa." />
 </div>
 
+- Bắt đầu từ một vấn đề thật, thay vì bắt đầu từ một công nghệ đang thịnh hành.
+- Thử nghiệm sớm, giữ lại điều hữu ích và sẵn sàng bỏ những thứ rườm rà.
+- Ưu tiên giao diện dễ hiểu, mã nguồn dễ đọc và trải nghiệm đủ tốt để sử dụng mỗi ngày.
+- Tận dụng AI để mở rộng khả năng sáng tạo, nhưng luôn kiểm tra lại kết quả.
+- Ghi chép và chia sẻ những điều đã học để lần sau không phải bắt đầu lại từ đầu.
+
+## Những điều muốn trao đổi
+
+Mình luôn thích những cuộc trò chuyện về cách thiết kế một website tốt hơn, làm một công cụ hữu ích hơn, viết prompt rõ ràng hơn hoặc đơn giản hóa một vấn đề kỹ thuật. Nếu một repository có phần Issues được mở, bạn có thể gửi góp ý tại đó.
+
+## Dấu chân trên GitHub
+
+Theo dõi các [repository công khai](https://github.com/ahiidvn?tab=repositories) và [hoạt động đóng góp](https://github.com/ahiidvn?tab=overview) của mình trực tiếp trên GitHub. Đây cũng là nơi lưu lại những thử nghiệm, bản nháp và các bước tiến nhỏ theo thời gian.
+
 ---
 
 <div align="center">
-
-### Ghé thăm **aHí đây rồi**
-
-<a href="https://ahi.id.vn">
-  <img src="https://img.shields.io/badge/ahi.id.vn-Chia%20s%E1%BA%BB%20%C4%91i%E1%BB%81u%20t%C3%B4i%20bi%E1%BA%BFt%20%C2%B7%20X%C3%A2y%20d%E1%BB%B1ng%20%C4%91i%E1%BB%81u%20t%C3%B4i%20th%C3%ADch-E8590C?style=for-the-badge&logo=googlechrome&logoColor=white" alt="ahi.id.vn" />
-</a>
-
-<br/><br/>
-
-**Viết điều có ích. Làm thứ có giá trị!**
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:F97316,52:E8590C,100:C2410C&height=125&section=footer" alt="Footer wave" />
-
+  <h3>Viết điều có ích. Làm thứ có giá trị.</h3>
+  <p><em>Tôi viết mình vào những điều biết chạy.</em></p>
+  <p><a href="https://ahi.id.vn"><strong>ahi.id.vn</strong></a> &nbsp;·&nbsp; <a href="https://github.com/ahiidvn">@ahiidvn</a></p>
+  <sub>Made with curiosity, care &amp; a little bit of code.</sub>
 </div>
